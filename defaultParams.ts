@@ -8,3 +8,7 @@ console.log(`Adding 3 numbers ${answer1}`);
 
 answer1 = addit(14, 23);
 console.log(`Adding 2 numbers ${answer1}`);
+/*
+adding three numbers: 67
+adding 2 numbers: 37
+*/
